@@ -1,6 +1,6 @@
 # Stefan Haugen
 
-Analytical chemist that builds useful systems. Currently interested in transitioning into system reliability engineering and working on interesting problems I can contribute to with other passionate people. I build data pipelines, automate operations, and care about reproducibility, efficiency, and reliable programs that solve the many issues witnessed in operational science using modern technologies. 
+Analytical chemist that builds useful systems. Currently interested in transitioning into system reliability engineering and working on interesting problems I can contribute to with other passionate people. I build data pipelines, automate operations, and care about reproducibility, efficiency, and reliable programs that solve issues experienced in operational science using modern technologies. 
 
 ## my GitHub activity is recent
 
